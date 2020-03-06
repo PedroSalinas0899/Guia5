@@ -22,4 +22,5 @@ Con esto debería ser más que suficiente.
 Para la elaboración del programa se utilizó: -Gnome builder
 
 Sistema operativo: -Ubuntu ubuntu 18.04.3
+
 Desarrolladores: -----------------------------------Pedro Salinas Soto-----------------------------------
